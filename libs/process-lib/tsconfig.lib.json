@@ -15,7 +15,13 @@
     "lib": [
       "dom",
       "es2015"
-    ]
+    ],
+    "paths": {
+      "@my-company/core-lib": [
+        "dist/libs/core-lib",
+        "libs/core-lib/src/index.ts",
+      ]
+    }
   },
   "angularCompilerOptions": {
     "annotateForClosureCompiler": true,
