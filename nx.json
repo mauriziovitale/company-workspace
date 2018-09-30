@@ -22,6 +22,12 @@
     },
     "process-lib": {
       "tags": []
+    },
+    "process-app": {
+      "tags": []
+    },
+    "process-app-e2e": {
+      "tags": []
     }
   }
 }

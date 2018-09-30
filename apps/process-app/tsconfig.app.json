@@ -1,7 +1,7 @@
 {
   "extends": "../../tsconfig.json",
   "compilerOptions": {
-    "outDir": "../../dist/out-tsc/apps/content-app",
+    "outDir": "../../dist/out-tsc/apps/process-app",
     "types": []
   },
   "exclude": [
@@ -9,8 +9,6 @@
     "**/*.spec.ts"
   ],
   "include": [
-    "**/*.ts",
-    "../../../libs/core-lib/src/index.ts",
-    "../../../libs/content-lib/src/index.ts"
+    "**/*.ts"
   ]
 }
