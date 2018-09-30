@@ -16,11 +16,15 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@my-company/core-lib": [
+        "dist/libs/core-lib",
+        "libs/core-lib/src/index.ts",
+      ],
       "@my-company/content-lib": [
         "libs/content-lib/src/index.ts"
       ],
-      "@my-company/core-lib": [
-        "libs/core-lib/src/index.ts"
+      "@my-company/process-lib": [
+        "libs/process-lib/src/index.ts"
       ]
     }
   },
