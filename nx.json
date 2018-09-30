@@ -14,13 +14,13 @@
     "content-app-e2e": {
       "tags": []
     },
-    "content-lib": {
-      "tags": []
-    },
     "core-lib": {
       "tags": []
     },
-    "core-lib1": {
+    "content-lib": {
+      "tags": []
+    },
+    "process-lib": {
       "tags": []
     }
   }

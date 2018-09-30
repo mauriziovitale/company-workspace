@@ -10,6 +10,8 @@
   ],
   "include": [
     "**/*.ts",
-    "../../../libs/core-lib/src/index.ts"
+    "../../../libs/core-lib/src/index.ts",
+    "../../../libs/content-lib/src/index.ts",
+    "../../../libs/process-lib/src/index.ts"
   ]
 }
